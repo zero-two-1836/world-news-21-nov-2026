@@ -1,3 +1,7 @@
+[![make.fun](https://make.fun/badge/news-image-20261121.svg)](https://make.fun/bounty/news-image-20261121)
+[![rank](https://make.fun/badge/news-image-20261121/zero-two-1836/world-news-21-nov-2026/rank.svg)](https://make.fun/bounty/news-image-20261121)
+[![reward](https://make.fun/badge/news-image-20261121/zero-two-1836/world-news-21-nov-2026/reward.svg)](https://make.fun/bounty/news-image-20261121)
+
 # The World in One Picture — Saturday, 21 November 2026
 
 A single-image summary of one day's world news, built for the make.fun
